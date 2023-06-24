@@ -124,6 +124,8 @@
   PlatformCmosAccessLib|BoardModulePkg/Library/PlatformCmosAccessLibNull/PlatformCmosAccessLibNull.inf
   CmosAccessLib|BoardModulePkg/Library/CmosAccessLib/CmosAccessLib.inf
 
+  LlvmProfilingLib|MdePkg/Library/LlvmProfilingLib_v16.0.0/LlvmProfilingLib_v16.0.0.inf
+
 [LibraryClasses.common.SEC]
   #######################################
   # Edk2 Packages
